@@ -1,0 +1,24 @@
+{
+  "formatVersion" : 1,
+  "passTypeIdentifier" : "pass.com.passe-passe",
+  "webServiceURL" : "https://yoururl.ngrok.io/passes",
+  "authenticationToken" : "vxwxd7J8AlNNFPS8k0a0FfUFtq0ewzFdc",
+  "relevantDate" : "2011-12-08T13:00-08:00",
+  "organizationName" : "Showtime",
+  "description": "Billet de cinéma",
+  "serialNumber": "aa1",
+  "logoText" : "Showtime",
+  "locations" : [
+    {
+      "longitude" : -122.3748889,
+      "latitude" : 37.6189722
+    },
+    {
+      "longitude" : -122.03118,
+      "latitude" : 37.33182
+    }
+  ],
+  "backgroundColor" : "rgb(253, 220, 127)",
+  "foregroundColor" : "rgb(70, 73, 77)",
+  "eventTicket" : {}
+}

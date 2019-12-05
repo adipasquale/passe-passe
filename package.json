@@ -1,0 +1,19 @@
+{
+  "name": "passe-passe",
+  "version": "1.0.0",
+  "description": "generates passes",
+  "main": "app.js",
+  "dependencies": {
+    "@walletpass/pass-js": "^6.7.0",
+    "date-fns": "^2.8.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  },
+  "author": "adipasquale",
+  "engines": {
+    "node": "10.x"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}

@@ -54,9 +54,13 @@ This is a new password, you can create it, just keep track of it.
 
 Notes:
 
+- You may also be asked for your local machine password, do not get them mixed
+up!
 - ⚠️ do not select the `.pem` export format directly
 - ℹ️ If the `.p12` export format does not show up, make sure you have selected
-"My certificates" on the left sidebar:
+"My certificates" on the left sidebar: 
+![img](https://i.imgur.com/KxoZyuN.png)
+- make sure to export the top level Certificate and not the child private key!
 
 ## 4. Convert from p12 to pem
 

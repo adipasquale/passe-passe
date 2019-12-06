@@ -129,4 +129,5 @@ as the `WALLET_PEM_PRIVATE_KEY` environment variable.
 Now remove the `certificates/.pem` files and make sure the app still runs fine
 locally with `yarn start`
 
-You can now deploy in production and set the environment variables accordingly 🏁
+🏁 You can now deploy in production and set the environment variables
+accordingly 🏁
